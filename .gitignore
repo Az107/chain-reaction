@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+dev-dist
+*.local
+.DS_Store
+.vite
+
+# Generated PWA assets
+public/icons
+public/favicon.svg
+chain.tar.gz
